@@ -1,0 +1,24 @@
+# General
+.DS_Store
+htmcover.db
+htmlcover.log
+.idea
+.project
+.settings
+thumbs.db
+.classpath
+# Visual Studio 2017
+.approacher
+.suo
+.user
+.usersettings
+*.csproj
+*.osscde
+*.user
+*#synchronized
+*#snupshot*
+.sbr.
+.sbj/
+.vs/
+bin/
+obj/
